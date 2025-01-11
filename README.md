@@ -12,7 +12,7 @@ A web-based countdown timer for the next Bitcoin halving event, providing real-t
 
 1. **Clone or Download** the repository:
    ```bash
-   git clone https://github.com/yourusername/bitcoin-halving-countdown.git
+   git clone https://github.com/EnesKeremAYDIN/bitcoin-halving-countdown.git
    cd bitcoin-halving-countdown
    ```
 
