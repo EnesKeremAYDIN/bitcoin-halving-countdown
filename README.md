@@ -1,6 +1,6 @@
 # Bitcoin Halving Countdown
 
-A web-based countdown timer for the next Bitcoin halving event, providing real-time tracking until the estimated halving date.
+Web-based countdown timer for the next Bitcoin halving event, providing real-time tracking until the estimated halving date.
 
 ## Features
 
